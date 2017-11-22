@@ -1,7 +1,6 @@
 sudo: true
 dist: trusty
 cache: false
-OpenSSL: 1.1.0g 2 Nov 2017
 env:
 - URL=https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
 before_install:
